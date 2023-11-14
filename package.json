@@ -1,0 +1,8 @@
+{
+  "scripts": {
+    "start": "zx src/sample.mjs"
+  },
+  "dependencies": {
+    "zx": "^7.2.3"
+  }
+}
